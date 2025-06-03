@@ -1,5 +1,3 @@
-# Project: ConsoleGames
-# Makefile created by Embarcadero Dev-C++ 6.3
 
 CC       = gcc.exe
 SRC      = src
